@@ -1,5 +1,4 @@
 import { Router } from 'express';
-import {Request, Response} from 'express';
 import * as PageController  from '../controllers/pageController';
 import * as SearchController from '../controllers/searchController'
 
